@@ -30,5 +30,5 @@ all: embed
 
 clean:
 	@echo Cleaning embed
-	@rm -f *~ *.o *.so core core.* *.c embed
+	@rm -f *~ *.o *.so core core.* embed.c embed.h embed
 
